@@ -1,0 +1,13 @@
+webdrivers:
+    phantomjs: 
+        linux: "phantomjs"
+        mac: "phantomjs"
+        windows: "phantomjs.exe"
+    chrome:
+        linux: "chromedriver"
+        mac: "chromedriver"
+        windows: "chromedriver.exe"
+    firefox:
+        linux: ""
+        mac: ""
+        windows: ""
