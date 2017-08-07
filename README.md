@@ -29,3 +29,7 @@ Scrapstagram allows users to search Instagram's posts using hashtags.
 ```
 
 where [keyword] is the hashtag to be searched. Please note that the '#' symbol is not needed.
+
+## Credits
+
+This project based on [insta_scrape](https://github.com/dannyvassallo/insta_scrape) which is written in ruby. 
